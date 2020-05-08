@@ -1,0 +1,10 @@
+.center{
+    text-align: center;
+}
+
+#input{
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: 300px;
+    border-color: aliceblue;
+}
